@@ -19,3 +19,5 @@ O output do **sweetviz** é em HTML e gera resultados como:
 
 
 Aqui vai um depoimento pessoal, eu utilizo o sweetviz no meu dia a dia por que ele aguenta o "tranco" do trabalho, já apliquei ele em bases de 5 até 10 milhōes de registros aproximadamente e ele conseguiu processar sem problemas, ao contrário de outros pacotes como Pandas Profiling ou Dataprep, que comigo tiveram problemas em lidar com grandes volumes de dados e precisaram de uma amostragem dos dados para realizar as análises.
+
+**acesse o arquivo Aplicacao_EDA_sweetviz para a demonstração de como utilizar o pacote**
